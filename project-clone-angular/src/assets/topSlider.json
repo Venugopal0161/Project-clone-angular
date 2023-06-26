@@ -1,0 +1,136 @@
+{
+    "page": 1,
+    "results": [
+         {
+            "adult": false,
+            "backdrop_path": "/7e9MVGg8efOhoA2R9XhZcGWTC5Z.jpg",
+            "id": 1,
+            "title": "The Flash",
+            "original_language": "en",
+            "original_title": "The Flash",
+            "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+            "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 1230.087,
+            "release_date": "2023-06-13",
+            "video": false,
+            "vote_average": 6.769,
+            "vote_count": 560
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1inZm0xxXrpRfN0LxwE2TXzyLN6.jpg",
+            "id": 2,
+            "title": "John Wick: Chapter 4",
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 4",
+            "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+            "poster_path": "/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "popularity": 2328.622,
+            "release_date": "2023-03-22",
+            "video": false,
+            "vote_average": 7.878,
+            "vote_count": 3242
+        },
+         {
+            "adult": false,
+            "backdrop_path": "/qWQSnedj0LCUjWNp9fLcMtfgadp.jpg",
+            "id": 3,
+            "title": "Transformers: Rise of the Beasts",
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+            "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "popularity": 1744.341,
+            "release_date": "2023-06-06",
+            "video": false,
+            "vote_average": 7.164,
+            "vote_count": 412
+        },
+       
+        {
+            "adult": false,
+            "backdrop_path": "/bqMWZ5hB7bcI1KK2TH29odwCgWX.jpg",
+            "id": 5,
+            "title": "Dungeons & Dragons: Honor Among Thieves",
+            "original_language": "en",
+            "original_title": "Dungeons & Dragons: Honor Among Thieves",
+            "overview": "A charming thief and a band of unlikely adventurers undertake an epic heist to retrieve a lost relic, but things go dangerously awry when they run afoul of the wrong people.",
+            "poster_path": "/A7AoNT06aRAc4SV89Dwxj3EYAgC.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                12,
+                14,
+                35
+            ],
+            "popularity": 319.516,
+            "release_date": "2023-03-23",
+            "video": false,
+            "vote_average": 7.459,
+            "vote_count": 1768
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xqIhUVrfFVZIHVyj6Rf7zCN8n3l.jpg",
+            "id": 6,
+            "title": "The Walking Dead: Dead City",
+            "original_language": "en",
+            "original_name": "The Walking Dead: Dead City",
+            "overview": "Maggie and Negan travel to post-apocalyptic Manhattan - long ago cut off from the mainland. The crumbling city is filled with the dead and denizens who have made it a world full of anarchy, danger, beauty, and terror.",
+            "poster_path": "/wq3vuQzQgbS83zX3malAFWMsSwX.jpg",
+            "media_type": "tv",
+            "genre_ids": [
+                18,
+                10759,
+                10765
+            ],
+            "popularity": 2532.792,
+            "first_air_date": "2023-06-18",
+            "vote_average": 8.313,
+            "vote_count": 83,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/q3IK7KJPdfl8AeJnBvB1AQbIhBM.jpg",
+            "id": 7,
+            "title": "Guardians of the Galaxy Vol. 3",
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 3",
+            "overview": "Peter Quill, still reeling from the loss of Gamora, must rally his team around him to defend the universe along with protecting one of their own. A mission that, if not completed successfully, could quite possibly lead to the end of the Guardians as we know them.",
+            "poster_path": "/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 1160.784,
+            "release_date": "2023-05-03",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 2060
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}

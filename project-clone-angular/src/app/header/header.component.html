@@ -1,0 +1,14 @@
+<div class="row"  [ngClass]="isBottom ? 'bottom' : 'top'">
+    <img  class="logo" src="../../assets/logo.png" alt="">
+
+    <!-- <li>Home</li>
+    <li>Tv Shows</li>
+    <li>Movies</li>
+    <li>My List</li> -->
+    <div style="margin: auto 2px;">
+        <a style="margin: 0px 20px;" *ngFor="let menu of menus" >{{menu.name}}</a>
+    </div>
+    <img class="userlogo" src="../../assets/Netflix-avatar.png" alt="">
+
+
+</div>

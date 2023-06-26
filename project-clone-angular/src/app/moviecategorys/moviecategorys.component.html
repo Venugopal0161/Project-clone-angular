@@ -1,0 +1,100 @@
+<h5 id="headerNames">Trending Now</h5>
+
+<div class="row" >
+    <ng-container *ngFor="let item of trendingData.results">
+        <img  class="posters posterXl" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div>
+<h5 id="headerNames">Top Rated</h5>
+<div class="row" *ngIf="toprateddata.results.length == 0 ">
+<div *ngFor="let item of skeleton_loaderCount" >
+  <ngx-skeleton-loader animation="pulse" [theme]="{'height': '80px','width':'175px' , 'display': 'flex', 'flex-direction': 'column',
+    'border-bottom': '1px solid #f3f3f3'}"></ngx-skeleton-loader>
+        <!-- <img  class="posters posterXl" [src]="item.backdrop_path" alt=""> -->
+    </div>   
+</div>
+
+
+<div class="row" >
+    <ng-container *ngFor="let item of toprateddata.results">
+        <img  class="posters posterXl" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div>
+
+<h5 id="headerNames">Comedy Movies</h5>
+<div class="row" *ngIf="comedyMoviesdata.results.length == 0 ">
+<div *ngFor="let item of skeleton_loaderCount" >
+  <ngx-skeleton-loader animation="pulse" [theme]="{'height': '80px','width':'175px' , 'display': 'flex', 'flex-direction': 'column',
+    'border-bottom': '1px solid #f3f3f3'}"></ngx-skeleton-loader>
+        <!-- <img  class="posters posterXl" [src]="item.backdrop_path" alt=""> -->
+    </div>   
+</div>
+<div class="row" >
+    <ng-container *ngFor="let item of comedyMoviesdata.results">
+        <img  class="posters posterXl" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div>
+
+
+
+<h5 id="headerNames">Action</h5>
+<div class="row" *ngIf="actionMoviesdata.results.length == 0 ">
+<div *ngFor="let item of skeleton_loaderCount" >
+  <ngx-skeleton-loader animation="pulse" [theme]="{'height': '80px','width':'175px' , 'display': 'flex', 'flex-direction': 'column',
+    'border-bottom': '1px solid #f3f3f3'}"></ngx-skeleton-loader>
+        <!-- <img  class="posters posterXl" [src]="item.backdrop_path" alt=""> -->
+    </div>   
+</div>
+<div class="row" >
+    <ng-container *ngFor="let item of actionMoviesdata.results">
+        <img  class="posters posterXl" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div>
+
+
+
+<h5 id="headerNames">Documentry</h5>
+<div class="row" *ngIf="docMoviesdata.results.length == 0 ">
+<div *ngFor="let item of skeleton_loaderCount" >
+  <ngx-skeleton-loader animation="pulse" [theme]="{'height': '80px','width':'175px' , 'display': 'flex', 'flex-direction': 'column',
+    'border-bottom': '1px solid #f3f3f3'}"></ngx-skeleton-loader>
+    </div>   
+</div>
+<div class="row" >
+    <ng-container *ngFor="let item of docMoviesdata.results">
+        <img  class="posters posterXl" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div>
+<h5 id="headerNames">Horror Movies</h5>
+<div class="row" *ngIf="horrorMoviesdata.results.length == 0 ">
+<div *ngFor="let item of skeleton_loaderCount" >
+  <ngx-skeleton-loader animation="pulse" [theme]="{'height': '80px','width':'175px' , 'display': 'flex', 'flex-direction': 'column',
+    'border-bottom': '1px solid #f3f3f3'}"></ngx-skeleton-loader>
+    </div>   
+</div>
+<div class="row" >
+    <ng-container *ngFor="let item of horrorMoviesdata.results">
+        <img  class="posters posterXl" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div>
+
+
+<h5 id="headerNames">Romantic Movies</h5>
+<div class="row" *ngIf="romanticMoviesdata.results.length == 0 ">
+<div *ngFor="let item of skeleton_loaderCount" >
+  <ngx-skeleton-loader animation="pulse" [theme]="{'height': '80px','width':'175px' , 'display': 'flex', 'flex-direction': 'column',
+    'border-bottom': '1px solid #f3f3f3'}"></ngx-skeleton-loader>
+    </div>   
+</div>
+<div class="row" >
+    <ng-container *ngFor="let item of romanticMoviesdata.results">
+        <img  class="posters posterXl" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div>
+<h5 id="headerNames">Skeleton Loader</h5>
+<div class="row">
+<div *ngFor="let item of skeleton_loaderCount" >
+  <ngx-skeleton-loader animation="pulse" [theme]="{'height': '80px','width':'175px','margin-right':'10px' , 'display': 'flex', 'flex-direction': 'column',
+    'border-bottom': '1px solid #f3f3f3'}"></ngx-skeleton-loader>
+    </div>   
+</div>

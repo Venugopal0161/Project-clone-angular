@@ -1,0 +1,27 @@
+<!-- <div class="row" >
+    <ng-container *ngFor="let item of topSliderPosters.results ;let i = index" [ngClass]="{ 'active': currentIndex === i }">
+        <img  class="posters posterXl" id="{{item.id}}" [src]="item.backdrop_path" alt="">
+    </ng-container>   
+</div> -->
+<app-header></app-header>
+
+<div class="row" >
+    <div *ngFor="let item of images ;let i = index" [ngClass]="{ 'active': currentIndex == i}">
+        <img  class="posters posterXl" id="{{item.id}}" [src]="item.backdrop_path" alt="">
+        <h6 style="margin-top: 30%; margin-left: 3%;">
+      <b style="font-size: xxx-large;">{{item.title}}</b>
+
+               <span style="margin-left: 2%; font-size: medium;" >(IMDB :{{item.vote_average}})</span>
+
+        <br>
+         <p style="margin-left: 2%; font-size: medium;" >
+             {{item.overview}}
+         </p>
+         <br>
+            </h6>
+    </div>   
+
+
+
+<app-moviecategorys style="position: absolute; margin-top: 600px; background: linear-gradient(to bottom, rgb(0 0 0 / 39%) 0%, rgba(0,0,0,1) 100%); 
+" ></app-moviecategorys>

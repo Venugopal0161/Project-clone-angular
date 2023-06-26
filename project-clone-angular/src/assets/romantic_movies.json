@@ -1,0 +1,398 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/cSYLX73WskxCgvpN3MtRkYUSj1T.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.",
+            "popularity": 1146.21,
+            "poster_path": "/6oH378KUfCEitzJkm07r97L0RsZ.jpg",
+            "release_date": "2023-06-14",
+            "title": "Elemental",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 122
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ribiMu3iINPxDkofErPxe8jQ8L0.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                10749
+            ],
+            "id": 447277,
+            "original_language": "en",
+            "original_title": "The Little Mermaid",
+            "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+            "popularity": 1052.852,
+            "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+            "release_date": "2023-05-18",
+            "title": "The Little Mermaid",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 737
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 1010581,
+            "original_language": "es",
+            "original_title": "Culpa mía",
+            "overview": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
+            "popularity": 841.078,
+            "poster_path": "/w46Vw536HwNnEzOa7J24YH9DPRS.jpg",
+            "release_date": "2023-06-08",
+            "title": "My Fault",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 784
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mmSSn8Yn3GbJv9MsSnD4J1LnN9l.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 988078,
+            "original_language": "es",
+            "original_title": "A través del mar",
+            "overview": "After a year of long-distance, Raquel and Ares reunite on a steamy beach trip. Faced with fresh flirtations and insecurities, will their love prevail?",
+            "popularity": 554.406,
+            "poster_path": "/dAyJqJ8KoglZysttC6BfVmDFQUt.jpg",
+            "release_date": "2023-06-23",
+            "title": "Through My Window: Across the Sea",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 94
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cKE9qZqYtF4jimf0GFOqKfy7NEU.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 884605,
+            "original_language": "en",
+            "original_title": "No Hard Feelings",
+            "overview": "On the brink of losing her childhood home, Maddie discovers an intriguing job listing: wealthy helicopter parents looking for someone to “date” their introverted 19-year-old son, Percy, before he leaves for college. To her surprise, Maddie soon discovers the awkward Percy is no sure thing.",
+            "popularity": 516.859,
+            "poster_path": "/5xeNPGbM8ImVdJACUoGpXT8Pxx3.jpg",
+            "release_date": "2023-06-15",
+            "title": "No Hard Feelings",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 42
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8NFDAkEFbKVQKYIh61JAxO78yFa.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10749
+            ],
+            "id": 868759,
+            "original_language": "en",
+            "original_title": "Ghosted",
+            "overview": "Salt-of-the-earth Cole falls head over heels for enigmatic Sadie — but then makes the shocking discovery that she’s a secret agent. Before they can decide on a second date, Cole and Sadie are swept away on an international adventure to save the world.",
+            "popularity": 407.161,
+            "poster_path": "/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",
+            "release_date": "2023-04-18",
+            "title": "Ghosted",
+            "video": false,
+            "vote_average": 7,
+            "vote_count": 1021
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rzdPqYx7Um4FUZeD8wpXqjAUcEm.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 597,
+            "original_language": "en",
+            "original_title": "Titanic",
+            "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fiancé. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death—on its first and last voyage—on April 15, 1912.",
+            "popularity": 416.573,
+            "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+            "release_date": "1997-11-18",
+            "title": "Titanic",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 23057
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6UDep1cxHQqrNFhSW4ZNQLW3Alr.jpg",
+            "genre_ids": [
+                18,
+                36,
+                10749
+            ],
+            "id": 9453,
+            "original_language": "en",
+            "original_title": "Caligola",
+            "overview": "The perversion behind imperial Rome, the epic story of Rome's mad Emporer. All the details of his cruel, bizarre reign are revealed right here: His unholy sexual passion for his sister, his marriage to Rome's most infamous prostitute, his fiendishly inventive means of disposing those who would oppose him, and more.",
+            "popularity": 182.968,
+            "poster_path": "/4N4l873TVreuaR4FVpvaL2gfQ0N.jpg",
+            "release_date": "1979-08-14",
+            "title": "Caligula",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 681
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4rsomWxlqnHt3muGYK06auhOib6.jpg",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "id": 818647,
+            "original_language": "es",
+            "original_title": "A través de mi ventana",
+            "overview": "Raquel's longtime crush on her next-door neighbor turns into something more when he starts developing feelings for her, despite his family's objections.",
+            "popularity": 293.114,
+            "poster_path": "/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg",
+            "release_date": "2022-02-04",
+            "title": "Through My Window",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 2654
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qAfGVKCOg1ueNFOA9KL85lo9zox.jpg",
+            "genre_ids": [
+                10749,
+                18,
+                35
+            ],
+            "id": 1016121,
+            "original_language": "en",
+            "original_title": "Beautiful Disaster",
+            "overview": "Bad-boy Travis is exactly what college freshman Abby needs and wants to avoid. He spends his nights fighting in underground boxing matches, and his days as the ultimate college campus charmer. But Abby wants nothing to do with Travis. Intrigued by Abby’s resistance, Travis offers her a simple bet: if he loses his next fight, he must remain sex-free for a month. If he wins, Abby must live in his apartment for the same amount of time. Either way, Travis has no idea that Abby’s dark past is about to emerge, and he may have finally met his match.",
+            "popularity": 217.642,
+            "poster_path": "/bwdLflvCcOCRPqb1x13KPuYIzVx.jpg",
+            "release_date": "2023-04-04",
+            "title": "Beautiful Disaster",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 287
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 744276,
+            "original_language": "en",
+            "original_title": "After Ever Happy",
+            "overview": "As a shocking truth about a couple's families emerges, the two lovers discover they are not so different from each other. Tessa is no longer the sweet, simple, good girl she was when she met Hardin — any more than he is the cruel, moody boy she fell so hard for.",
+            "popularity": 186.955,
+            "poster_path": "/6b7swg6DLqXCO3XUsMnv6RwDMW2.jpg",
+            "release_date": "2022-08-24",
+            "title": "After Ever Happy",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 871
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/d6eZyt3bRYldtjEzQe78b8YUikh.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 1128568,
+            "original_language": "tr",
+            "original_title": "Merve Kült",
+            "overview": "Merve chose the bohemian life, but it didn't choose her back. Faced with eviction, she starts a new job and stumbles into a spicy setup with her boss.",
+            "popularity": 140.528,
+            "poster_path": "/8fk4l8PvGGjHYCUpA4gGbyIoS3S.jpg",
+            "release_date": "2023-06-09",
+            "title": "You Do You",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 51
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg",
+            "genre_ids": [
+                28,
+                35,
+                10749
+            ],
+            "id": 758009,
+            "original_language": "en",
+            "original_title": "Shotgun Wedding",
+            "overview": "Darcy and Tom gather their families for the ultimate destination wedding but when the entire party is taken hostage, “’Til Death Do Us Part” takes on a whole new meaning in this hilarious, adrenaline-fueled adventure as Darcy and Tom must save their loved ones—if they don’t kill each other first.",
+            "popularity": 174.04,
+            "poster_path": "/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",
+            "release_date": "2022-12-28",
+            "title": "Shotgun Wedding",
+            "video": false,
+            "vote_average": 6.4,
+            "vote_count": 871
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1PQqvw7wnGeWqvXcBLaGK46n0zk.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                28,
+                14,
+                10749
+            ],
+            "id": 496450,
+            "original_language": "fr",
+            "original_title": "Miraculous - le film",
+            "overview": "A life of an ordinary Parisian teenager Marinette goes superhuman when she becomes Ladybug. Bestowed with magical powers of creation, Ladybug must unite with her opposite, Cat Noir, to save Paris as a new villain unleashes chaos unto the city.",
+            "popularity": 183.851,
+            "poster_path": "/dQNJ8SdCMn3zWwHzzQD2xrphR1X.jpg",
+            "release_date": "2023-07-05",
+            "title": "Miraculous: Ladybug & Cat Noir, The Movie",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/997ToEZvF2Obp9zNZbY5ELVnmrW.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 537915,
+            "original_language": "en",
+            "original_title": "After",
+            "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+            "popularity": 160.393,
+            "poster_path": "/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg",
+            "release_date": "2019-04-11",
+            "title": "After",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 7635
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 829560,
+            "original_language": "pl",
+            "original_title": "Kolejne 365 dni",
+            "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+            "popularity": 163.698,
+            "poster_path": "/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg",
+            "release_date": "2022-08-19",
+            "title": "The Next 365 Days",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 780
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pi3GUYa57tvYmesV84xujdA3ztH.jpg",
+            "genre_ids": [
+                10749
+            ],
+            "id": 505292,
+            "original_language": "ko",
+            "original_title": "어린 누나",
+            "overview": "A young man grows up with his older cousin who is like an older sister to him. When he grows up, he goes to visit her at her home where her friend is also visiting. The three of them under roof make for some interesting circumstances.",
+            "popularity": 150.118,
+            "poster_path": "/e2uKsBgakda3XyHKCLPcUfKsmFw.jpg",
+            "release_date": "2018-03-15",
+            "title": "Youthful Older Sister",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zBG5Mg29NH9xxpWMMG7BIvKwYhL.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 829557,
+            "original_language": "pl",
+            "original_title": "365 dni: Ten dzień",
+            "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo’s family ties and a mysterious man who enters Laura’s life to win her heart and trust, at any cost.",
+            "popularity": 155.158,
+            "poster_path": "/7qU0SOVcQ8BTJLodcAlulUAG16C.jpg",
+            "release_date": "2022-04-27",
+            "title": "365 Days: This Day",
+            "video": false,
+            "vote_average": 5.8,
+            "vote_count": 1128
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6hgItrYQEG33y0I7yP2SRl2ei4w.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 613504,
+            "original_language": "en",
+            "original_title": "After We Collided",
+            "overview": "Tessa finds herself struggling with her complicated relationship with Hardin; she faces a dilemma that could change their lives forever.",
+            "popularity": 151.128,
+            "poster_path": "/kiX7UYfOpYrMFSAGbI6j1pFkLzQ.jpg",
+            "release_date": "2020-09-02",
+            "title": "After We Collided",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 4955
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lV3UFPPxDIPelh46G9oySXN9Mcz.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 744275,
+            "original_language": "en",
+            "original_title": "After We Fell",
+            "overview": "Just as Tessa's life begins to become unglued, nothing is what she thought it would be. Not her friends nor her family. The only person that she should be able to rely on is Hardin, who is furious when he discovers the massive secret that she's been keeping. Before Tessa makes the biggest decision of her life, everything changes because of revelations about her family.",
+            "popularity": 150.877,
+            "poster_path": "/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",
+            "release_date": "2021-09-01",
+            "title": "After We Fell",
+            "video": false,
+            "vote_average": 7.1,
+            "vote_count": 2202
+        }
+    ],
+    "total_pages": 2238,
+    "total_results": 44741
+}

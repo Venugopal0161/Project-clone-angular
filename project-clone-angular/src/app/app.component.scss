@@ -1,0 +1,46 @@
+.row {
+    // display: flex;
+    // overflow: hidden;
+    // overflow-x: scroll;
+    // padding: 20px;
+    // position: relative;
+}
+
+.row::-webkit-scrollbar {
+    display: none;
+}
+
+.row div.active {
+    display: block;
+}
+
+.row div {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 101%;
+}
+
+.row div.active h6 {
+    display: block;
+}
+
+.row div h6 {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 90%;
+}
+
+.posters {
+    // border-radius: 1vw;
+    margin-right: 10px;
+    max-height: 800px;
+    object-fit: cover;
+    transition: -webkit-transform .45s;
+    transition: transform .45s;
+    transition: transform .45s, -webkit-transform .45s;
+    width: 100%;
+}
